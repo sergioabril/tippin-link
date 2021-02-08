@@ -1,0 +1,13 @@
+{
+  "name": "tippin-node-relayer",
+  "version": "0.0.1",
+  "description": "Relayer for node, to receive tips from tippin with hold invoices",
+  "main": "index.js",
+  "author": "Sergio Abril",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
